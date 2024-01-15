@@ -17,4 +17,4 @@
 
 <br>
 
-<p align="left">Ola devs! 👋<br><br>- 📚 Estudante de Análise e Desenvolvimento de Sistemas<br><br>-🌱Atualmente aprendendo Python | JS | SLQ Server .<br><br>- ⚡ Meus hobbies são Jogar, desenhar e ler. Procurando sempre evoluir <br><br>-❤️ Apaixonado por Tecnologia, esportes e a Lua!</p>
+<p align="left">Ola devs! 👋<br><br>- 📚 Estudante de Análise e Desenvolvimento de Sistemas.<br><br>-🌱Atualmente aprendendo Python | JS | SLQ Server.<br><br>- ⚡ Meus hobbies são Jogar, desenhar e ler. Procurando sempre evoluir. <br><br>-❤️ Apaixonado por Tecnologia, esportes e a Lua!</p>
