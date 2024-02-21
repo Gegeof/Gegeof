@@ -1,6 +1,6 @@
-![perfil gerson](https://github.com/Gegeof/Gegeof/assets/78177655/ba90e0da-2530-42a6-8f61-2015df999c6d)
-
 ### Ola! Eu sou Gerson Davi 👋
+
+![perfil gerson](https://github.com/Gegeof/Gegeof/assets/78177655/ba90e0da-2530-42a6-8f61-2015df999c6d)
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerson-davi-221253207/)
